@@ -21,3 +21,7 @@ Therefore, follow this guide to clone the repository **once**:
 5. Clone the repository
 
 To then update against the GitHub repository, you just need to press the `Fetch origin` button at the top and (if new changes are available) press the `Pull origin` button afterwards. That way, if you are interested in some of the new music I upload to my channel, you can simply fetch and then pull the new changes to your local instance of my repository, without tediously downloading every single file manually.
+
+## Impressum/Contact
+
+For contact information, please refer to the about section of my YouTube channel: https://www.youtube.com/@josxill/about
